@@ -8,5 +8,6 @@ public class retengelAksi {
        
        r1.cetakInfo();
        System.out.println("luas retengel = "+r1.hitungluas());
+       r1.cetakluas();
    } 
 }
