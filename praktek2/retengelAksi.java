@@ -5,5 +5,8 @@ public class retengelAksi {
        retengel r1 = new retengel();
        r1.panjang = 9;
        r1.lebar = 3;
+       
+       r1.cetakInfo();
+       System.out.println("luas retengel = "+r1.hitungluas());
    } 
 }
