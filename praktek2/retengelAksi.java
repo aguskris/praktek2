@@ -1,14 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package praktek2;
 
-/**
- *
- * @author user
- */
 public class retengelAksi {
-    
+   public static void main(String[] args){
+       retengel r1 = new retengel();
+       r1.panjang = 9;
+       r1.lebar = 3;
+   } 
 }
